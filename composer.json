@@ -1,0 +1,7 @@
+{
+  "name": "Rfqrequest/my-php-submit  ",
+  "require": {},
+  "scripts": {
+    "start": "php -S 0.0.0.0:$PORT -t ."
+  }
+}
