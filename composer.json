@@ -1,7 +1,8 @@
 {
-  "name": "Rfqrequest/my-php-submit  ",
-  "require": {},
-  "scripts": {
-    "start": "php -S 0.0.0.0:$PORT -t ."
-  }
+  "name": "rfqrequest/my-php-submit",
+  "description": "Simple PHP backend submit handler",
+  "require": {},
+  "scripts": {
+    "start": "php -S 0.0.0.0:$PORT -t ."
+  }
 }
